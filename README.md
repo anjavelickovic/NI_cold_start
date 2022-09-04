@@ -19,6 +19,9 @@ In this project, we determine the seeds by locating the *representatives* in a r
   3) Movie lens dataset (https://grouplens.org/datasets/movielens)
 
 ## Literature
+  - https://dl.acm.org/doi/10.1145/2043932.2043943
+  - https://pandas.pydata.org/
+  - https://scipy.org/
 
 ## Authors
 * [Ognjen Milinković](https://github.com/ognjenivuk)
